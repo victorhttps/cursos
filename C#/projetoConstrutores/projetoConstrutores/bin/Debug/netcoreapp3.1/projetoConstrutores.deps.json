@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "projetoConstrutores/1.0.0": {
+        "runtime": {
+          "projetoConstrutores.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "projetoConstrutores/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

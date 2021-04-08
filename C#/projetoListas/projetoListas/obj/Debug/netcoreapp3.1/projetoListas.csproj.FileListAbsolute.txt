@@ -1,0 +1,13 @@
+C:\Users\victo\source\repos\projetoListas\projetoListas\bin\Debug\netcoreapp3.1\projetoListas.exe
+C:\Users\victo\source\repos\projetoListas\projetoListas\bin\Debug\netcoreapp3.1\projetoListas.deps.json
+C:\Users\victo\source\repos\projetoListas\projetoListas\bin\Debug\netcoreapp3.1\projetoListas.runtimeconfig.json
+C:\Users\victo\source\repos\projetoListas\projetoListas\bin\Debug\netcoreapp3.1\projetoListas.runtimeconfig.dev.json
+C:\Users\victo\source\repos\projetoListas\projetoListas\bin\Debug\netcoreapp3.1\projetoListas.dll
+C:\Users\victo\source\repos\projetoListas\projetoListas\bin\Debug\netcoreapp3.1\projetoListas.pdb
+C:\Users\victo\source\repos\projetoListas\projetoListas\obj\Debug\netcoreapp3.1\projetoListas.csprojAssemblyReference.cache
+C:\Users\victo\source\repos\projetoListas\projetoListas\obj\Debug\netcoreapp3.1\projetoListas.AssemblyInfoInputs.cache
+C:\Users\victo\source\repos\projetoListas\projetoListas\obj\Debug\netcoreapp3.1\projetoListas.AssemblyInfo.cs
+C:\Users\victo\source\repos\projetoListas\projetoListas\obj\Debug\netcoreapp3.1\projetoListas.csproj.CoreCompileInputs.cache
+C:\Users\victo\source\repos\projetoListas\projetoListas\obj\Debug\netcoreapp3.1\projetoListas.dll
+C:\Users\victo\source\repos\projetoListas\projetoListas\obj\Debug\netcoreapp3.1\projetoListas.pdb
+C:\Users\victo\source\repos\projetoListas\projetoListas\obj\Debug\netcoreapp3.1\projetoListas.genruntimeconfig.cache

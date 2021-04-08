@@ -1,0 +1,13 @@
+C:\Users\victo\source\repos\projetoContaBancaria\projetoContaBancaria\bin\Debug\netcoreapp3.1\projetoContaBancaria.exe
+C:\Users\victo\source\repos\projetoContaBancaria\projetoContaBancaria\bin\Debug\netcoreapp3.1\projetoContaBancaria.deps.json
+C:\Users\victo\source\repos\projetoContaBancaria\projetoContaBancaria\bin\Debug\netcoreapp3.1\projetoContaBancaria.runtimeconfig.json
+C:\Users\victo\source\repos\projetoContaBancaria\projetoContaBancaria\bin\Debug\netcoreapp3.1\projetoContaBancaria.runtimeconfig.dev.json
+C:\Users\victo\source\repos\projetoContaBancaria\projetoContaBancaria\bin\Debug\netcoreapp3.1\projetoContaBancaria.dll
+C:\Users\victo\source\repos\projetoContaBancaria\projetoContaBancaria\bin\Debug\netcoreapp3.1\projetoContaBancaria.pdb
+C:\Users\victo\source\repos\projetoContaBancaria\projetoContaBancaria\obj\Debug\netcoreapp3.1\projetoContaBancaria.csprojAssemblyReference.cache
+C:\Users\victo\source\repos\projetoContaBancaria\projetoContaBancaria\obj\Debug\netcoreapp3.1\projetoContaBancaria.AssemblyInfoInputs.cache
+C:\Users\victo\source\repos\projetoContaBancaria\projetoContaBancaria\obj\Debug\netcoreapp3.1\projetoContaBancaria.AssemblyInfo.cs
+C:\Users\victo\source\repos\projetoContaBancaria\projetoContaBancaria\obj\Debug\netcoreapp3.1\projetoContaBancaria.csproj.CoreCompileInputs.cache
+C:\Users\victo\source\repos\projetoContaBancaria\projetoContaBancaria\obj\Debug\netcoreapp3.1\projetoContaBancaria.dll
+C:\Users\victo\source\repos\projetoContaBancaria\projetoContaBancaria\obj\Debug\netcoreapp3.1\projetoContaBancaria.pdb
+C:\Users\victo\source\repos\projetoContaBancaria\projetoContaBancaria\obj\Debug\netcoreapp3.1\projetoContaBancaria.genruntimeconfig.cache

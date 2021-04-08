@@ -1,0 +1,13 @@
+C:\Users\victo\source\repos\projetoEstoque\projetoEstoque\obj\Debug\netcoreapp3.1\projetoEstoque.csprojAssemblyReference.cache
+C:\Users\victo\source\repos\projetoEstoque\projetoEstoque\obj\Debug\netcoreapp3.1\projetoEstoque.AssemblyInfoInputs.cache
+C:\Users\victo\source\repos\projetoEstoque\projetoEstoque\obj\Debug\netcoreapp3.1\projetoEstoque.AssemblyInfo.cs
+C:\Users\victo\source\repos\projetoEstoque\projetoEstoque\obj\Debug\netcoreapp3.1\projetoEstoque.csproj.CoreCompileInputs.cache
+C:\Users\victo\source\repos\projetoEstoque\projetoEstoque\bin\Debug\netcoreapp3.1\projetoEstoque.exe
+C:\Users\victo\source\repos\projetoEstoque\projetoEstoque\bin\Debug\netcoreapp3.1\projetoEstoque.deps.json
+C:\Users\victo\source\repos\projetoEstoque\projetoEstoque\bin\Debug\netcoreapp3.1\projetoEstoque.runtimeconfig.json
+C:\Users\victo\source\repos\projetoEstoque\projetoEstoque\bin\Debug\netcoreapp3.1\projetoEstoque.runtimeconfig.dev.json
+C:\Users\victo\source\repos\projetoEstoque\projetoEstoque\bin\Debug\netcoreapp3.1\projetoEstoque.dll
+C:\Users\victo\source\repos\projetoEstoque\projetoEstoque\bin\Debug\netcoreapp3.1\projetoEstoque.pdb
+C:\Users\victo\source\repos\projetoEstoque\projetoEstoque\obj\Debug\netcoreapp3.1\projetoEstoque.dll
+C:\Users\victo\source\repos\projetoEstoque\projetoEstoque\obj\Debug\netcoreapp3.1\projetoEstoque.pdb
+C:\Users\victo\source\repos\projetoEstoque\projetoEstoque\obj\Debug\netcoreapp3.1\projetoEstoque.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\victo\source\repos\projetoVetorQuartos\projetoVetorQuartos\obj\Debug\netcoreapp3.1\projetoVetorQuartos.csprojAssemblyReference.cache
+C:\Users\victo\source\repos\projetoVetorQuartos\projetoVetorQuartos\obj\Debug\netcoreapp3.1\projetoVetorQuartos.AssemblyInfoInputs.cache
+C:\Users\victo\source\repos\projetoVetorQuartos\projetoVetorQuartos\obj\Debug\netcoreapp3.1\projetoVetorQuartos.AssemblyInfo.cs
+C:\Users\victo\source\repos\projetoVetorQuartos\projetoVetorQuartos\obj\Debug\netcoreapp3.1\projetoVetorQuartos.csproj.CoreCompileInputs.cache
+C:\Users\victo\source\repos\projetoVetorQuartos\projetoVetorQuartos\bin\Debug\netcoreapp3.1\projetoVetorQuartos.exe
+C:\Users\victo\source\repos\projetoVetorQuartos\projetoVetorQuartos\bin\Debug\netcoreapp3.1\projetoVetorQuartos.deps.json
+C:\Users\victo\source\repos\projetoVetorQuartos\projetoVetorQuartos\bin\Debug\netcoreapp3.1\projetoVetorQuartos.runtimeconfig.json
+C:\Users\victo\source\repos\projetoVetorQuartos\projetoVetorQuartos\bin\Debug\netcoreapp3.1\projetoVetorQuartos.runtimeconfig.dev.json
+C:\Users\victo\source\repos\projetoVetorQuartos\projetoVetorQuartos\bin\Debug\netcoreapp3.1\projetoVetorQuartos.dll
+C:\Users\victo\source\repos\projetoVetorQuartos\projetoVetorQuartos\bin\Debug\netcoreapp3.1\projetoVetorQuartos.pdb
+C:\Users\victo\source\repos\projetoVetorQuartos\projetoVetorQuartos\obj\Debug\netcoreapp3.1\projetoVetorQuartos.dll
+C:\Users\victo\source\repos\projetoVetorQuartos\projetoVetorQuartos\obj\Debug\netcoreapp3.1\projetoVetorQuartos.pdb
+C:\Users\victo\source\repos\projetoVetorQuartos\projetoVetorQuartos\obj\Debug\netcoreapp3.1\projetoVetorQuartos.genruntimeconfig.cache

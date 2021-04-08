@@ -1,0 +1,13 @@
+C:\Users\victo\source\repos\projetoVetor\projetoVetor\bin\Debug\netcoreapp3.1\projetoVetor.exe
+C:\Users\victo\source\repos\projetoVetor\projetoVetor\bin\Debug\netcoreapp3.1\projetoVetor.deps.json
+C:\Users\victo\source\repos\projetoVetor\projetoVetor\bin\Debug\netcoreapp3.1\projetoVetor.runtimeconfig.json
+C:\Users\victo\source\repos\projetoVetor\projetoVetor\bin\Debug\netcoreapp3.1\projetoVetor.runtimeconfig.dev.json
+C:\Users\victo\source\repos\projetoVetor\projetoVetor\bin\Debug\netcoreapp3.1\projetoVetor.dll
+C:\Users\victo\source\repos\projetoVetor\projetoVetor\bin\Debug\netcoreapp3.1\projetoVetor.pdb
+C:\Users\victo\source\repos\projetoVetor\projetoVetor\obj\Debug\netcoreapp3.1\projetoVetor.csprojAssemblyReference.cache
+C:\Users\victo\source\repos\projetoVetor\projetoVetor\obj\Debug\netcoreapp3.1\projetoVetor.AssemblyInfoInputs.cache
+C:\Users\victo\source\repos\projetoVetor\projetoVetor\obj\Debug\netcoreapp3.1\projetoVetor.AssemblyInfo.cs
+C:\Users\victo\source\repos\projetoVetor\projetoVetor\obj\Debug\netcoreapp3.1\projetoVetor.csproj.CoreCompileInputs.cache
+C:\Users\victo\source\repos\projetoVetor\projetoVetor\obj\Debug\netcoreapp3.1\projetoVetor.dll
+C:\Users\victo\source\repos\projetoVetor\projetoVetor\obj\Debug\netcoreapp3.1\projetoVetor.pdb
+C:\Users\victo\source\repos\projetoVetor\projetoVetor\obj\Debug\netcoreapp3.1\projetoVetor.genruntimeconfig.cache
