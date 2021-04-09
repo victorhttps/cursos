@@ -1,0 +1,13 @@
+C:\Users\victo\source\repos\projetoFuncionarios\projetoFuncionarios\bin\Debug\netcoreapp3.1\projetoFuncionarios.exe
+C:\Users\victo\source\repos\projetoFuncionarios\projetoFuncionarios\bin\Debug\netcoreapp3.1\projetoFuncionarios.deps.json
+C:\Users\victo\source\repos\projetoFuncionarios\projetoFuncionarios\bin\Debug\netcoreapp3.1\projetoFuncionarios.runtimeconfig.json
+C:\Users\victo\source\repos\projetoFuncionarios\projetoFuncionarios\bin\Debug\netcoreapp3.1\projetoFuncionarios.runtimeconfig.dev.json
+C:\Users\victo\source\repos\projetoFuncionarios\projetoFuncionarios\bin\Debug\netcoreapp3.1\projetoFuncionarios.dll
+C:\Users\victo\source\repos\projetoFuncionarios\projetoFuncionarios\bin\Debug\netcoreapp3.1\projetoFuncionarios.pdb
+C:\Users\victo\source\repos\projetoFuncionarios\projetoFuncionarios\obj\Debug\netcoreapp3.1\projetoFuncionarios.csprojAssemblyReference.cache
+C:\Users\victo\source\repos\projetoFuncionarios\projetoFuncionarios\obj\Debug\netcoreapp3.1\projetoFuncionarios.AssemblyInfoInputs.cache
+C:\Users\victo\source\repos\projetoFuncionarios\projetoFuncionarios\obj\Debug\netcoreapp3.1\projetoFuncionarios.AssemblyInfo.cs
+C:\Users\victo\source\repos\projetoFuncionarios\projetoFuncionarios\obj\Debug\netcoreapp3.1\projetoFuncionarios.csproj.CoreCompileInputs.cache
+C:\Users\victo\source\repos\projetoFuncionarios\projetoFuncionarios\obj\Debug\netcoreapp3.1\projetoFuncionarios.dll
+C:\Users\victo\source\repos\projetoFuncionarios\projetoFuncionarios\obj\Debug\netcoreapp3.1\projetoFuncionarios.pdb
+C:\Users\victo\source\repos\projetoFuncionarios\projetoFuncionarios\obj\Debug\netcoreapp3.1\projetoFuncionarios.genruntimeconfig.cache
